@@ -9,10 +9,6 @@ import 'bootstrap-vue/dist/bootstrap-vue.css'
 Vue.use(BootstrapVue)
 Vue.use(IconsPlugin)
 
-//Clipboard
-import VueClipboard from 'vue-clipboard2'
-Vue.use(VueClipboard)
-
 Vue.config.productionTip = false
 
 new Vue({

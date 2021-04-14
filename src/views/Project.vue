@@ -72,10 +72,6 @@ p, li {
 </style>
 
 <!--
-TODO
-* Lägg till mitt namn någonstans
-* ladda upp på "github pages"
-
 LÅG PRIORITET
 * Specifications dynamisk höjd
 * small image för SlitherShots

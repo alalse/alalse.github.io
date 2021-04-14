@@ -35,11 +35,11 @@ const projects = [
         "page_sections": [
             {
                 "name":"Description",
-                "text":"My first larger project since starting university. The game was developed as part of the course 'Object-Oriented System' and was created through C++ and and the multimedia library SFML. The game plays like the traditional game 'Pong' but with it's typical paddles replaced with the snakes from the classic 'Snake'."
+                "text":"My first large-scale project since starting university. The game was developed as part of the course 'Object-Oriented System' and was created through C++ and and the multimedia library SFML. The game plays like the traditional game 'Pong' but with its typical paddles replaced with the snakes from the classic 'Snake'."
             },
             {
                 "name":"About the game",
-                "text":"Just as in Pong the objective of SlitherShots is to get a ball across the game board into the opponents goal. You do this by driving the snake on your half of the game board trying to bounce the ball against your head or snake segments. Also, if the ball bounces against the head of a snake it picks up speed and gets flung in the direction it is facing. The snake is in constant motion requiring players to always think about where they are going. Furthermore, because SlitherShots draws inspiration from both Pong and Snake there will also be food spawning on the board. By going over food the snake gains a temporary increase in its length that decreases over time. There's also some more rare foods that in addition to increasing the length of the snake also gives it either a temporary speed or width boost.                                                        "
+                "text":"Just as in Pong the objective of SlitherShots is to get a ball across the board into the opponents goal. You do this by driving the snake on your half of the board trying to bounce the ball against your head or snake segments. If the ball bounces against the head of a snake it picks up speed and gets flung in the direction it is facing. The snake is in constant motion requiring players to always think about where they are going. Furthermore, because SlitherShots draws inspiration from both Pong and Snake there will also be food spawning on the board. By going over food the snake gains a temporary increase in its length that decreases over time. There's also some more rare food types that in addition to increasing the length of the snake also gives it either a temporary speed or width boost.                                                        "
             }
         ],
         "start_date":"November 12th 2019",
@@ -94,7 +94,7 @@ const projects = [
         "page_sections": [
             {
                 "name":"Description",
-                "text":"An application that uses peer to peer connections to carry chat conversations over the Internet. The application is constructed with the 'Model-view-viewmodel' architecture and is the first project where I have truly and fully managed to separate GUI from logical code in a good and functional way."
+                "text":"An application that uses peer to peer connections to carry out chat conversations over the Internet. The application is constructed with the 'Model-view-viewmodel' architecture and is the first project I have been a part of where I have truly and fully managed to separate GUI from logical code in a, according to me, good and functional way."
             }
         ],
         "start_date":"November 19th 2020",
@@ -119,7 +119,7 @@ const projects = [
         "page_sections": [
             {
                 "name":"Description",
-                "text":"A social website with a frontend created through the Vue JavaScript framework and a backend made with NodeJS and MongoDB. Through the course we were tasked with creating a website with, for us, an unknown framework. We were not beforehand given any information regarding how the Vue framework functioned and therefore had to find such information by ourselves through available documentation and forums."
+                "text":"A social website with a frontend created through the Vue JavaScript framework and a backend made with NodeJS and MongoDB. Through the course we were tasked with creating a website with, for us, an unknown framework. We were beforehand not given any information regarding how the Vue framework functioned and therefore had to find such information by ourselves through available documentation and forums online."
             }
         ],
         "start_date":"September 9th 2020",
