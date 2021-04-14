@@ -1,0 +1,98 @@
+[
+    {
+        "name": "Handhavande av datormiljö",
+        "id": "TDP001",
+        "credits": "4",
+        "url": "https://liu.se/studieinfo/kurs/tdp001/"
+    },
+    {
+        "name": "Imperativ programmering",
+        "id": "TDP002",
+        "credits": "6",
+        "url": "https://liu.se/studieinfo/kurs/tdp002/"
+    },
+    {
+        "name": "Projekt: Egna datormiljön",
+        "id": "TDP003",
+        "credits": "6",
+        "url": "https://liu.se/studieinfo/kurs/tdp003/"
+    },
+    {
+        "name": "Objektorienterad programmering",
+        "id": "TDP004",
+        "credits": "8",
+        "url": "https://liu.se/studieinfo/kurs/tdp004/"
+    },
+    {
+        "name": "Projekt: Objektorienterat system",
+        "id": "TDP005",
+        "credits": "6",
+        "url": "https://liu.se/studieinfo/kurs/tdp005/"
+    },
+    {
+        "name": "Konstruktion av datorspråk",
+        "id": "TDP007",
+        "credits": "6",
+        "url": "https://liu.se/studieinfo/kurs/tdp007/"
+    },
+    {
+        "name": "Projekt: Datorspråk",
+        "id": "TDP019",
+        "credits": "10",
+        "url": "https://liu.se/studieinfo/kurs/tdp019/"
+    },
+    {
+        "name": "Datornät och distribuerade system",
+        "id": "TDTS04",
+        "credits": "8",
+        "url": "https://liu.se/studieinfo/kurs/tdts04/"
+    },
+    {
+        "name": "Grunder i matematik och logik",
+        "id": "TDP015",
+        "credits": "6",
+        "url": "https://liu.se/studieinfo/kurs/tdp015/"
+    },
+    {
+        "name": "Datastrukturer och algoritmer",
+        "id": "TDDI16",
+        "credits": "6",
+        "url": "https://liu.se/studieinfo/kurs/tddi16/"
+    },
+    {
+        "name": "Webbprogrammering och interaktivitet",
+        "id": "TDP013",
+        "credits": "6",
+        "url": "https://liu.se/studieinfo/kurs/tdp013/"
+    },
+    {
+        "name": "Projekt: Entreprenöriell programmering",
+        "id": "TDP028",
+        "credits": "10",
+        "url": "https://liu.se/studieinfo/kurs/tdp028/"
+    },
+    {
+        "name": "Programmering i C# och .NET Framework",
+        "id": "TDDD49",
+        "credits": "4",
+        "url": "https://liu.se/studieinfo/kurs/tddd49/"
+    },
+    {
+        "name": "Datorteknik",
+        "id": "TSIU02",
+        "credits": "4",
+        "url": "https://liu.se/studieinfo/kurs/tsiu02/"
+    },
+    {
+        "name": "Interaktiva system",
+        "id": "TDDD60",
+        "credits": "4",
+        "url": "https://liu.se/studieinfo/kurs/tddd60/"
+    },
+    {
+        "name": "Operativsystem",
+        "id": "TDIU11",
+        "credits": "6",
+        "url": "https://liu.se/studieinfo/kurs/tdiu11/"
+    }
+]
